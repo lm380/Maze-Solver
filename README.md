@@ -1,6 +1,6 @@
 # Maze-Solver
 
-The solver needs input txt files in the same style as those in the tester folder
+The solver needs input txt files in the same style as those in the Testers folder
 Compile and run the maze solver file and follow the instructions
 
 
@@ -22,28 +22,28 @@ OUTPUT:
  walls marked by '\#', passages marked by ' ', path marked by 'X', start/end marked by 'S'/'E'
 
 Example file:  
-10 10
-1 1
-8 8
-1 1 1 1 1 1 1 1 1 1
-1 0 0 0 0 0 0 0 0 1
-1 0 1 0 1 1 1 1 1 1
-1 0 1 0 0 0 0 0 0 1
-1 0 1 1 0 1 0 1 1 1
-1 0 1 0 0 1 0 1 0 1
-1 0 1 0 0 0 0 0 0 1
-1 0 1 1 1 0 1 1 1 1
-1 0 1 0 0 0 0 0 0 1
-1 1 1 1 1 1 1 1 1 1
+10 10\n
+1 1\n
+8 8\n
+1 1 1 1 1 1 1 1 1 1\n
+1 0 0 0 0 0 0 0 0 1\n
+1 0 1 0 1 1 1 1 1 1\n
+1 0 1 0 0 0 0 0 0 1\n
+1 0 1 1 0 1 0 1 1 1\n
+1 0 1 0 0 1 0 1 0 1\n
+1 0 1 0 0 0 0 0 0 1\n
+1 0 1 1 1 0 1 1 1 1\n
+1 0 1 0 0 0 0 0 0 1\n
+1 1 1 1 1 1 1 1 1 1\n
 
 Example output:
-\##########
-\#SXX     #
-\# #X######
-\# #XX    #
-\# ##X# ###
-\# # X# # #
-\# # XX   #
-\# ###X####
-\# #  XXXE#
-\##########
+\##########\n
+\#SXX     #\n
+\# #X######\n
+\# #XX    #\n
+\# ##X# ###\n
+\# # X# # #\n
+\# # XX   #\n
+\# ###X####\n
+\# #  XXXE#\n
+\##########\n
