@@ -5,7 +5,6 @@ Compile and run the maze solver file and follow the instructions
 
 
 # Maze input/output formats
-=========================
 
 The input is a maze description file in plain text.  
  1 - denotes walls
